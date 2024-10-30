@@ -1,5 +1,4 @@
 ## Hi there
-
 👋 Xin chào, mình là Huỳnh Nhật Hoàng
 👀 Mình là người đang theo học đại học HUFLIT và đang học ngành công nghệ thông tin tại trường
 🌱 Hiện tại, mình đang học React và Node.js
